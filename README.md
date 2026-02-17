@@ -49,13 +49,22 @@ This repository integrates theoretical concepts of signals and systems with prac
 </div>
 
 ---
+
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="./raw/img/oppenheim_cover.png" width="250" height="375" alt="Signals and Systems"/></td>
-      <td align="center"><img src="./raw/img/matlab_lab_cover.png" width="250" height="350" alt="Signals and Systems Laboratory with MATLAB"/></td>
-      <td align="center"><img src="./raw/img/haykin_cover.png" width="250" height="375" alt="Signals and Systems by Haykin"/></td>
-      <td align="center"><img src="./raw/img/taghaddosi_cover.png" width="250" height="375" alt="تجزیه و تحلیل سیگنال‌ها و سیستم‌ها"/></td>
+      <td align="center">
+        <img src="./raw/img/oppenheim_cover.png" alt="Signals and Systems" style="width:250px; height:375px; object-fit:cover;"/>
+      </td>
+      <td align="center">
+        <img src="./raw/img/matlab_lab_cover.png" alt="Signals and Systems Laboratory with MATLAB" style="width:250px; height:375px; object-fit:cover;"/>
+      </td>
+      <td align="center">
+        <img src="./raw/img/taghaddosi_cover.png" alt="تجزیه و تحلیل سیگنال‌ها و سیستم‌ها" style="width:250px; height:375px; object-fit:cover;"/>
+      </td>
+      <td align="center">
+        <img src="./raw/img/haykin_cover.png" alt="Signals and Systems by Haykin" style="width:250px; height:375px; object-fit:cover;"/>
+      </td>
     </tr>
   </table>
 </p>
