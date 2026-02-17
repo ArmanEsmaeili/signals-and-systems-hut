@@ -84,21 +84,22 @@ This repository integrates theoretical concepts of signals and systems with prac
 11. Fourier Analysis of Continuous-Time Signals – Continuous-Time Fourier Series  
 12. Continuation of Continuous-Time Fourier Series – Application of Fourier Series in LTI System Analysis  
 13. Properties of the Continuous-Time Fourier Series  
-14. Continuation of the Properties of the Continuous-Time Fourier Series  
+14. Continuation of Properties of the Continuous-Time Fourier Series  
 15. Continuous-Time Fourier Transform and Its Application in LTI System Analysis  
 16. Properties of the Continuous-Time Fourier Transform  
-17. Continuation of the Properties of the Continuous-Time Fourier Transform  
+17. Continuation of Properties of the Continuous-Time Fourier Transform  
 18. Filtering and Sampling of Continuous-Time Signals  
 19. Fourier Analysis of Discrete-Time Signals – Discrete-Time Fourier Series  
 20. Midterm Exam  
 21. Continuation of Discrete-Time Fourier Series – Application of Fourier Series in LTI System Analysis  
 22. Properties of the Discrete-Time Fourier Series  
-23. Continuation of the Properties of the Discrete-Time Fourier Series  
+23. Continuation of Properties of the Discrete-Time Fourier Series  
 24. Discrete-Time Fourier Transform and Its Application in LTI System Analysis  
 25. Properties of the Discrete-Time Fourier Transform  
-26. Continuation of the Properties of the Discrete-Time Fourier Transform  
+26. Continuation of Properties of the Discrete-Time Fourier Transform  
 27. Filtering of Discrete-Time Signals  
 28. Laplace Transform  
-29. Continuation of the Laplace Transform – Z-Transform  
-30. Continuation of the Z-Transform  
+29. Continuation of Laplace Transform – Z-Transform  
+30. Continuation of Z-Transform  
+
 
