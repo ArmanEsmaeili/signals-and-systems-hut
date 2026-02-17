@@ -20,11 +20,15 @@ This repository integrates theoretical concepts of signals and systems with prac
    📘 [Amazon Link](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/B002664E12)  
    🖨️ [Download Link](https://www.cedric-richard.fr/assets/files/Signals_and_Systems_2nd_Edition_by_Oppen.pdf)
 
+---
+
 2. **Signals and Systems Laboratory with MATLAB**, 1st Edition  
    *Alex Palamides, Anastasia Veloni*  
    A complementary laboratory manual integrating MATLAB exercises and examples alongside key signals and systems concepts, ideal for hands-on computational practice.  
    📘 [Amazon Link](https://www.amazon.com/Signals-Systems-Laboratory-MATLAB-Palamides/dp/143983055X)  
    🖨️ [Download Link](https://s34.picofile.com/file/8488261084/Signals_and_systems_laboratory.pdf.html)
+
+---
 
 3. **Signals and Systems**, 2nd Edition  
    *Simon Haykin, Barry Van Veen*  
@@ -34,7 +38,7 @@ This repository integrates theoretical concepts of signals and systems with prac
 
 ---
 
-<div dir="rtl">
+<div dir="rtl" align="right">
 
 4. **تجزیه و تحلیل سیگنال‌ها و سیستم‌ها**  
    *مهدی تقدسی — انتشارات نصیر*  
@@ -45,10 +49,13 @@ This repository integrates theoretical concepts of signals and systems with prac
 </div>
 
 ---
-
 <p align="center">
-  <img src="./raw/img/oppenheim_cover.png" width="250" height="375" alt="Signals and Systems"/>
-  <img src="./raw/img/matlab_lab_cover.png" width="250" height="375" alt="Signals and Systems Laboratory with MATLAB"/>
-  <img src="./raw/img/haykin_cover.png" width="250" height="375" alt="Signals and Systems by Haykin"/>
-  <img src="./raw/img/taghaddosi_cover.png" width="250" height="375" alt="تجزیه و تحلیل سیگنال‌ها و سیستم‌ها"/>
+  <table>
+    <tr>
+      <td align="center"><img src="./raw/img/oppenheim_cover.png" width="250" height="375" alt="Signals and Systems"/></td>
+      <td align="center"><img src="./raw/img/matlab_lab_cover.png" width="250" height="350" alt="Signals and Systems Laboratory with MATLAB"/></td>
+      <td align="center"><img src="./raw/img/haykin_cover.png" width="250" height="375" alt="Signals and Systems by Haykin"/></td>
+      <td align="center"><img src="./raw/img/taghaddosi_cover.png" width="250" height="375" alt="تجزیه و تحلیل سیگنال‌ها و سیستم‌ها"/></td>
+    </tr>
+  </table>
 </p>
