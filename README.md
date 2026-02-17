@@ -25,7 +25,7 @@ This repository integrates theoretical concepts of signals and systems with prac
 
 2. **Signals and Systems Laboratory with MATLAB**, 1st Edition  
    *Alex Palamides, Anastasia Veloni*  
-   A laboratory-oriented companion book providing structured computational experiments and practical exercises to reinforce theoretical concepts.
+   A complementary laboratory manual integrating MATLAB exercises and examples alongside key signals and systems concepts, ideal for hands-on computational practice.
 
    📘 [Amazon Link](https://www.amazon.com/Signals-Systems-Laboratory-MATLAB-Palamides/dp/143983055X)  
    🖨️ [Download Link](https://s34.picofile.com/file/8488261084/Signals_and_systems_laboratory.pdf.html)
@@ -37,12 +37,15 @@ This repository integrates theoretical concepts of signals and systems with prac
    A comprehensive treatment of signal representation and linear systems with strong emphasis on practical engineering applications and problem-solving.
 
    📘 [Amazon Link](https://www.amazon.com/Signals-Systems-2nd-Simon-Haykin/dp/047138309X)
+   🖨️ [Download link](https://pdfcoffee.com/signals-and-systems-2ndsimon-haykin-4-pdf-free.html)
 
 ---
 
 4. **تجزیه و تحلیل سیگنال‌ها و سیستم‌ها**  
    *مهدی تقدسی — انتشارات نصیر*  
    A Persian reference covering theoretical foundations of signals and systems, widely used in Iranian universities.
+
+   📘 [Pouran Pajouhesh Publications](https://pouran.net/product/%D8%AA%D8%AC%D8%B2%DB%8C%D9%87-%D9%88-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%87%D8%A7-%D9%88-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7-%D8%AC%D9%84%D8%AF-%D8%A7%D9%88%D9%84-%D9%85%D9%87%D8%AF%DB%8C-%D8%AA%D9%82%D8%AF%D8%B3%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B5%DB%8C%D8%B1/)
 
 ---
 
