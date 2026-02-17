@@ -4,4 +4,4 @@
 > ***CE/EE Departments, Hamedan University of Technology***
 
 > **Course Maintainer, Teaching Assistant & Python Lab Instructor:**  
-> *[Arman Esmaeili](https://github.com/ArmanEsmaeili)*
+> **[Arman Esmaeili](https://github.com/ArmanEsmaeili)**
