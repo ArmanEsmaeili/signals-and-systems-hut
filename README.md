@@ -32,20 +32,23 @@ This repository integrates theoretical concepts of signals and systems with prac
    📘 [Amazon Link](https://www.amazon.com/Signals-Systems-2nd-Simon-Haykin/dp/047138309X)  
    🖨️ [Download link](https://pdfcoffee.com/signals-and-systems-2ndsimon-haykin-4-pdf-free.html)
 
+---
+
+<div dir="rtl">
+
 4. **تجزیه و تحلیل سیگنال‌ها و سیستم‌ها**  
    *مهدی تقدسی — انتشارات نصیر*  
-   A Persian reference covering theoretical foundations of signals and systems, widely used in Iranian universities.  
-   📘 [Pouran Pajouhesh Publications](https://pouran.net/product/%D8%AA%D8%AC%D8%B2%DB%8C%D9%87-%D9%88-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%87%D8%A7-%D9%88-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7-%D8%AC%D9%84%D8%AF-%D8%A7%D9%88%D9%84-%D9%85%D9%87%D8%AF%DB%8C-%D8%AA%D9%82%D8%AF%D8%B3%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B5%DB%8C%D8%B1/)
+   مرجع فارسی که پایه‌های نظری سیگنال‌ها و سیستم‌ها را پوشش می‌دهد و در دانشگاه‌های ایران کاربرد گسترده‌ای دارد.  
+
+   📘 [انتشارات پوران پژوهش](https://pouran.net/product/%D8%AA%D8%AC%D8%B2%DB%8C%D9%87-%D9%88-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%87%D8%A7-%D9%88-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7-%D8%AC%D9%84%D8%AF-%D8%A7%D9%88%D9%84-%D9%85%D9%87%D8%AF%DB%8C-%D8%AA%D9%82%D8%AF%D8%B3%DB%8C-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B5%DB%8C%D8%B1/)
+
+</div>
 
 ---
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="./raw/img/oppenheim_cover.png" width="250" height="375" alt="Signals and Systems"/></td>
-      <td align="center"><img src="./raw/img/matlab_lab_cover.png" width="250" height="375" alt="Signals and Systems Laboratory with MATLAB"/></td>
-      <td align="center"><img src="./raw/img/haykin_cover.png" width="250" height="375" alt="Signals and Systems by Haykin"/></td>
-      <td align="center"><img src="./raw/img/taghaddosi_cover.png" width="250" height="375" alt="تجزیه و تحلیل سیگنال‌ها و سیستم‌ها"/></td>
-    </tr>
-  </table>
+  <img src="./raw/img/oppenheim_cover.png" width="250" height="375" alt="Signals and Systems"/>
+  <img src="./raw/img/matlab_lab_cover.png" width="250" height="375" alt="Signals and Systems Laboratory with MATLAB"/>
+  <img src="./raw/img/haykin_cover.png" width="250" height="375" alt="Signals and Systems by Haykin"/>
+  <img src="./raw/img/taghaddosi_cover.png" width="250" height="375" alt="تجزیه و تحلیل سیگنال‌ها و سیستم‌ها"/>
 </p>
