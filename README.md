@@ -14,24 +14,41 @@ This repository integrates theoretical concepts of signals and systems with prac
 
 ## References
 
-### Recommended Textbooks
-
-<p align="center">
-  <img height="240" src="https://openai.com/images/placeholder.png" alt="Signals and Systems cover" />
-  <img height="240" src="https://openai.com/images/placeholder.png" alt="Signals and Systems Laboratory with MATLAB cover" />
-</p>
-
 1. **Signals and Systems**, 2nd Edition  
-   *Alan V. Oppenheim (Author), Alan S. Willsky (Author), S. Hamid Nawab (Author)*  
-   A foundational undergraduate text that develops continuous-time and discrete-time signal and system analysis in parallel, covering topics such as convolution, Fourier analysis, Laplace transforms, and system properties. :contentReference[oaicite:0]{index=0}  
-   📘 [Amazon Link](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/B002664E12)
+   *Alan V. Oppenheim, Alan S. Willsky, S. Hamid Nawab*  
+   A foundational undergraduate textbook covering continuous-time and discrete-time signal analysis, LTI systems, convolution, Fourier analysis, and Laplace transforms.
+
+   📘 [Amazon Link](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/B002664E12)  
+   🖨️ [Download Link](https://www.cedric-richard.fr/assets/files/Signals_and_Systems_2nd_Edition_by_Oppen.pdf)
+
+---
 
 2. **Signals and Systems Laboratory with MATLAB**, 1st Edition  
-   *Alex Palamides (Author), Anastasia Veloni (Author)*  
-   A complementary laboratory manual integrating MATLAB exercises and examples alongside key signals and systems concepts, ideal for hands-on computational practice. :contentReference[oaicite:1]{index=1}  
-   📘 [Amazon Link](https://www.amazon.com/Signals-Systems-Laboratory-MATLAB-Palamides/dp/143983055X)
+   *Alex Palamides, Anastasia Veloni*  
+   A laboratory-oriented companion book providing structured computational experiments and practical exercises to reinforce theoretical concepts.
+
+   📘 [Amazon Link](https://www.amazon.com/Signals-Systems-Laboratory-MATLAB-Palamides/dp/143983055X)  
+   🖨️ [Download Link](https://s34.picofile.com/file/8488261084/Signals_and_systems_laboratory.pdf.html)
+
+---
+
+3. **Signals and Systems**, 2nd Edition  
+   *Simon Haykin, Barry Van Veen*  
+   A comprehensive treatment of signal representation and linear systems with strong emphasis on practical engineering applications and problem-solving.
+
+   📘 [Amazon Link](https://www.amazon.com/Signals-Systems-2nd-Simon-Haykin/dp/047138309X)
+
+---
+
+4. **تجزیه و تحلیل سیگنال‌ها و سیستم‌ها**  
+   *مهدی تقدسی — انتشارات نصیر*  
+   A Persian reference covering theoretical foundations of signals and systems, widely used in Iranian universities.
+
+---
 
 <p align="center">
-  <img width="300" src="turn0image3" alt="Signals and Systems by Oppenheim cover" />
-  <img width="300" src="turn0image8" alt="Signals and Systems Laboratory with MATLAB cover" />
+  <img src="./raw/img/oppenheim_cover.png" width="300" height="450" />
+  <img src="./raw/img/matlab_lab_cover.png" width="300" height="450" />
+  <img src="./raw/img/haykin_cover.png" width="300" height="450" />
+  <img src="./raw/img/taghaddosi_cover.png" width="300" height="450" />
 </p>
