@@ -68,3 +68,37 @@ This repository integrates theoretical concepts of signals and systems with prac
     </tr>
   </table>
 </p>
+
+## Course Outline:
+
+1. Introduction to the Course  
+2. Signals and Their Properties  
+3. Continuation of Signals – Independent Variable Transformations – Important Continuous-Time Signals  
+4. Important Continuous-Time and Discrete-Time Signals  
+5. Continuous-Time and Discrete-Time Systems and Their Properties – Types and Interconnections  
+6. System Properties  
+7. Continuous-Time LTI Systems – Convolution Integral – Properties of the Convolution Integral  
+8. Discrete-Time LTI Systems – Convolution Sum  
+9. Properties of the Convolution Sum – Properties of LTI Systems  
+10. Systems Described by Linear Constant-Coefficient Differential and Difference Equations  
+11. Fourier Analysis of Continuous-Time Signals – Continuous-Time Fourier Series  
+12. Continuation of Continuous-Time Fourier Series – Application of Fourier Series in LTI System Analysis  
+13. Properties of the Continuous-Time Fourier Series  
+14. Continuation of the Properties of the Continuous-Time Fourier Series  
+15. Continuous-Time Fourier Transform and Its Application in LTI System Analysis  
+16. Properties of the Continuous-Time Fourier Transform  
+17. Continuation of the Properties of the Continuous-Time Fourier Transform  
+18. Filtering and Sampling of Continuous-Time Signals  
+19. Fourier Analysis of Discrete-Time Signals – Discrete-Time Fourier Series  
+20. Midterm Exam  
+21. Continuation of Discrete-Time Fourier Series – Application of Fourier Series in LTI System Analysis  
+22. Properties of the Discrete-Time Fourier Series  
+23. Continuation of the Properties of the Discrete-Time Fourier Series  
+24. Discrete-Time Fourier Transform and Its Application in LTI System Analysis  
+25. Properties of the Discrete-Time Fourier Transform  
+26. Continuation of the Properties of the Discrete-Time Fourier Transform  
+27. Filtering of Discrete-Time Signals  
+28. Laplace Transform  
+29. Continuation of the Laplace Transform – Z-Transform  
+30. Continuation of the Z-Transform  
+
