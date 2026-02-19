@@ -69,6 +69,18 @@ This repository integrates theoretical concepts of signals and systems with prac
   </table>
 </p>
 
+## Recorded Lectures
+
+### Semester 4041 — Supervisor Course Recordings
+
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Z2gVLHezC-IYk9Iy1335LQmOYWtzr9Bz?usp=sharing)
+
+---
+
+### Semester 4041 — Python Sessions (Recorded by Instructor)
+
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/18FCz_VvJNF8YYGR6Fx6CGYaWiK6iMYT7?usp=sharing)
+
 ## Course Outline:
 
 1. Introduction to the Course  
