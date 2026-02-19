@@ -114,7 +114,7 @@ This repository integrates theoretical concepts of signals and systems with prac
 29. Continuation of Laplace Transform – Z-Transform  
 30. Continuation of Z-Transform  
 
-# Complete guide for using this repo
+## Complete guide for using this repo
 
 This repository is a structured academic project designed to bridge theoretical foundations and computational implementation in Signals and Systems.
 
@@ -127,7 +127,7 @@ The objective is to translate theory into verified computational understanding.
 
 ---
 
-## 1. Clone the Repository
+1. **Clone the Repository**
 
 Open a terminal and run:
 
