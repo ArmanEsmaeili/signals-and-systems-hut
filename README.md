@@ -77,7 +77,7 @@ This repository integrates theoretical concepts of signals and systems with prac
 
 ---
 
-### Semester 4041 — Python Sessions (Recorded by Instructor)
+### Semester 4041 — Python Sessions 
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/18FCz_VvJNF8YYGR6Fx6CGYaWiK6iMYT7?usp=sharing)
 
@@ -114,4 +114,146 @@ This repository integrates theoretical concepts of signals and systems with prac
 29. Continuation of Laplace Transform – Z-Transform  
 30. Continuation of Z-Transform  
 
+# Complete guide for using this repo
 
+This repository is a structured academic project designed to bridge theoretical foundations and computational implementation in Signals and Systems.
+
+It contains:
+
+- `Educational-Resources/` — Core theoretical references used in the course  
+- `python-notebooks/` — Python implementations aligned with course chapters  
+
+The objective is to translate theory into verified computational understanding.
+
+---
+
+## 1. Clone the Repository
+
+Open a terminal and run:
+
+```bash
+git clone https://github.com/<your-username>/signals-and-systems-hut.git
+cd signals-and-systems-hut
+```
+
+2.  **Create a Virtual Environment (Recommended)**
+    ```bash
+    python -m venv venv
+    ```
+
+    Activate it:
+
+    **Windows:**
+    ```bash
+    venv\Scripts\activate
+    ```
+
+    **macOS / Linux:**
+    ```bash
+    source venv/bin/activate
+    ```
+
+3.  **Install Required Dependencies**
+
+    If a `requirements.txt` file exists:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    Otherwise install the required scientific stack manually:
+    ```bash
+    pip install numpy scipy matplotlib sympy jupyter
+    ```
+
+    These libraries support:
+    *   Continuous-time and discrete-time convolution
+    *   Fourier Series and Fourier Transform
+    *   Laplace Transform and Z-Transform
+    *   Sampling and filtering
+    *   LTI system simulation
+
+4.  **Run the Notebooks**
+
+    Start Jupyter:
+    ```bash
+    jupyter notebook
+    ```
+
+    Then navigate to:
+    ```
+    python-notebooks/
+    ```
+
+    Select the appropriate chapter folder and run notebook cells sequentially. Execution order must be preserved to ensure reproducibility.
+
+5.  **Recommended Study Workflow**
+
+    For effective use of the repository:
+    1.  Study the theoretical material inside `Educational-Resources/`
+    2.  Understand the mathematical derivations
+    3.  Open the corresponding notebook inside `python-notebooks/`
+    4.  Compare equations with implementation
+    5.  Modify parameters and observe system behavior
+
+    This enforces the learning pipeline:
+    **Theory → Mathematical Formulation → Computational Implementation → Conceptual Understanding**
+
+6.  **Keep Your Repository Updated**
+
+    Before starting new work:
+    ```bash
+    git pull origin main
+    ```
+
+    This ensures synchronization with the latest changes.
+
+7.  **Contribution Workflow**
+
+    This repository evolves through structured academic contributions.
+
+    **Step 1 — Fork the Repository**
+    Create your own fork on GitHub.
+
+    **Step 2 — Clone Your Fork**
+    ```bash
+    git clone https://github.com/<your-username>/signals-and-systems-hut.git
+    cd signals-and-systems-hut
+    ```
+
+    **Step 3 — Create a Feature Branch**
+    Do not work directly on `main`.
+    ```bash
+    git checkout -b feature/chapter-xx-topic
+    ```
+    Use descriptive branch names aligned with the course syllabus.
+
+    **Step 4 — Add or Improve Notebooks**
+    Place notebooks inside the correct directory:
+    ```
+    python-notebooks/<chapter-folder>/
+    ```
+
+    Each notebook must include:
+    *   Clear theoretical introduction
+    *   Correct mathematical implementation
+    *   Structured and readable code
+    *   Properly labeled figures
+    *   No redundant or unnecessary content
+
+    **Step 5 — Commit Changes**
+    ```bash
+    git add .
+    git commit -m "Add notebook for DT Fourier Transform properties"
+    ```
+    Use precise and technical commit messages.
+
+    **Step 6 — Push Your Branch**
+    ```bash
+    git push origin feature/chapter-xx-topic
+    ```
+
+    **Step 7 — Open a Pull Request**
+    Submit a Pull Request to the `main` branch of `signals-and-systems-hut`. Include a clear description of:
+    *   The implemented topic
+    *   The corresponding chapter
+    *   Any assumptions or design decisions
